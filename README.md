@@ -1,8 +1,8 @@
 ## Hello, the name's Lee Hong Hui 👋
 
-I've been enjoying developing as a backend developer since going thru the online learning platform [boot.dev](https://boot.dev).\
-[Boot.dev](https://boot.dev) made me build a web server, which was an eye-opener for me, which made me want to discover more tools and concepts.\
-I'm excited to work on a team and explore how we can make an impact.
+I've been enjoying my journey as a backend developer every since I started learning through the online learning platform [Boot.dev](https://boot.dev).\
+Building a web server on [Boot.dev](https://boot.dev) was an eye-opening experience sparked my curiosity to explore more tools and concepts.\
+I'm excited to work on a team and discover how we can make an impact together. If you're looking to hire, I'd love to chat!
 <!--
 **AhGr3y/AhGr3y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
